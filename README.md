@@ -12,5 +12,5 @@ Gracias al curso de LaunchX/FrontEnd es que pude realizar este proyecto y como m
 
 ***Tambien puedes ir al link directo del proyecto, ¡vamos velo tu mismo! :eyes: :point_right: [LINK]()***
 
-<img src="./Img/sp1.PNG" alt="Inicio" height="500">
-<img src="./Img/sp2.PNG" alt="Fin" height="500">
+<img src="./Img/sp1.PNG" alt="Inicio" height="600">
+<img src="./Img/sp2.PNG" alt="Fin" height="600">
