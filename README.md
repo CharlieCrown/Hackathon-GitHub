@@ -1,5 +1,5 @@
-# Proyecto Hackathon GitHub :computer: :musical_note:
-## CLON de Spotify
+# Proyecto Hackathon GitHub :computer: :rocket:
+## CLON de Spotify :musical_note:
 El proyecto que presentare para el hackathon de GitHub, es un clon de Spotify, decidi realizar este proyecto
 por que me parecio muy interesante y divertido de hacer, entiendo que es un proyecto que mucha gente ya a realizado, 
 sin embargo yo quise intentarlo.
