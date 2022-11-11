@@ -188,7 +188,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(./IMG/bann.png);
+    background-image: url(./Image/bann.png);
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 10px;
@@ -230,7 +230,7 @@ body {
     right: 0;
     bottom: 0;
     margin: auto;
-    background-image:url(./IMG/play.svg);
+    background-image:url(./Image/play.svg);
     background-position: center;
     background-size: cover;
     width: 48px;
